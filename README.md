@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0027-remove-element) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
