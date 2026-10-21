@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
