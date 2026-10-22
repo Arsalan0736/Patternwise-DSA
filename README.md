@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0136-single-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
 ## Simulation
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
