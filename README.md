@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0136-single-number) |
+| [0216-combination-sum-iii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0485-max-consecutive-ones) |
@@ -115,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
