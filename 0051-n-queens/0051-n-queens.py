@@ -20,7 +20,7 @@ class Solution:
         ans=[]
         board=["."*n for _ in range(n)]
         leftRow=[0]*n
-        lowerDiagonal=[0]*n*(2*n-1)
-        upperDiagonal=[0]*n*(2*n-1)
+        lowerDiagonal=[0]*(2*n-1)
+        upperDiagonal=[0]*(2*n-1)
         self.solve(0,ans,board,leftRow,lowerDiagonal,upperDiagonal,n)
         return ans
