@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
