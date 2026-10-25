@@ -126,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0052-n-queens-ii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
