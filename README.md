@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0860-lemonade-change) |
 ## Quicksort
