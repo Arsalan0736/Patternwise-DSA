@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0735-asteroid-collision) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
+| [0455-assign-cookies](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
@@ -155,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
