@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0543-diameter-of-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
