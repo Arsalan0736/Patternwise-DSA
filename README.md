@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0013-roman-to-integer) |
+| [0127-word-ladder](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0127-word-ladder) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
