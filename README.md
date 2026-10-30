@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0200-number-of-islands) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
