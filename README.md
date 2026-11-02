@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Bidirectional Search
 |  |
 | ------- |
