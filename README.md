@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -299,4 +302,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
