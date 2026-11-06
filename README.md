@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
