@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0542-01-matrix) |
 | [1143-longest-common-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
