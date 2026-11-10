@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0583-delete-operation-for-two-strings) |
