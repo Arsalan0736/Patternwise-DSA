@@ -1,11 +1,8 @@
 class Solution:
     def rotateString(self, s: str, goal: str) -> bool:
-        curr=s
-        n=len(curr)
-        if n!=len(goal):
+        curr=s+s
+        if len(s)!=len(goal):
             return False
-        for i in range(n):
-            if curr==goal:
-                return True
-            curr=curr[-1]+curr[:-1]
+        if goal in curr:
+            return True
         return False
