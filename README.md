@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0860-lemonade-change) |
+| [1903-largest-odd-number-in-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
