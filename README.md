@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
