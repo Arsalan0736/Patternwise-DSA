@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0796-rotate-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -425,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Arsalan0736/Patternwise-DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
